@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="introductionHeader" datatype="html">
         <source>Hello i18n!</source>
+        <target state="translated">多語系化你好！</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">3</context>
@@ -13,6 +14,7 @@
       </trans-unit>
       <trans-unit id="5206857922697139278" datatype="html">
         <source>I don't output any element</source>
+        <target state="translated">這裡不會輸出任何元素</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">9</context>
